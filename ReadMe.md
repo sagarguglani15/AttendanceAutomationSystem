@@ -1,4 +1,4 @@
-#Attendace Automation System
+# Attendace Automation System
 > use of face datection to get your attendance marked
 
 ## Usages:
